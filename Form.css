@@ -1,0 +1,17 @@
+.wrapper{
+    height: 100vh;
+}
+.login{
+    width:300px;
+    height:min-content;
+    border-radius: 5px;
+    padding: 3rem 2rem;
+    background-color: azure;
+    box-shadow: 0 4px 8px 0 rgba(226, 221, 221, 0.915);
+}
+.btn{
+    background-color: green;
+}
+button a:hover{
+    color:red;
+}
